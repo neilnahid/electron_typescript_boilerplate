@@ -1,7 +1,7 @@
 // eslint-disable-next-line
 import { app, BrowserWindow } from 'electron';
-import * as path from 'path';
-import * as url from 'url';
+import path from 'path';
+import url from 'url';
 import installExtension, {
   REACT_DEVELOPER_TOOLS,
 } from 'electron-devtools-installer'; //eslint-disable-line
