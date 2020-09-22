@@ -45,4 +45,3 @@ app
         .catch((err) => console.log('An error occurred: ', err));
     }
   });
-app.allowRendererProcessReuse = true;
